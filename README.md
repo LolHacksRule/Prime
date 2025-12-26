@@ -13,6 +13,4 @@ The main focus is to provide a better development environment for users of the e
 
 Any modifications are licensed under MIT.
 
-Public tools and DRM code won't be included.
-
-Whenever a 1:1 matching internal file is found according to the PDB file hash and also updated, it will be moved to ''matching''.
+Public tools, demos and DRM code aren't included.
